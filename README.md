@@ -11,6 +11,7 @@ Embark on a journey through drawable mazes to visualize the pathfinding process.
 Delve into the world of data compression with our visualizer. Witness the intricate process of file compression through the lens of Huffman Encoding. Gain insights into optimal data representation, offering a clear understanding of how this compression technique efficiently reduces file sizes. Users can control the visualization speed, providing an educational experience in the principles of data compression.
 
 This Algorithm Visualizer provides an interactive and customizable experience, offering dynamic insights into sorting, various pathfinding algorithms, and file compression techniques. Explore real-world scenarios, making learning both engaging and effective.
+
 **Website Link** - https://be-learner.netlify.app/
 ## Website snaps
 ![1 Snap](https://github.com/shivesh41kr/Algo-Visualizer/assets/87690329/865bdefa-7585-46db-9c1d-06e1e751d340)
